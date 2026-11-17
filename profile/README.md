@@ -5,7 +5,7 @@
 BenchFleet is a desktop app for Windows, macOS and Linux that runs Android phones from your computer: your own phones on USB, and cloud phones rented by the minute.
 
 - **AI agents on real phones.** Claude Code, Codex and other AI clients use the phones you choose over MCP, with approvals for sensitive steps and a hash-chained audit log.
-- **App testing on real phones.** Run recorded workflows and Maestro, Espresso and Appium suites on your own phones or on cloud phones, with a video of every run.
+- **App testing on real phones.** Run recorded workflows and Maestro, Espresso and Appium suites on your own phones with a video of every run, or your instrumentation tests on a cloud phone from GitHub Actions.
 - **Running a fleet.** See every phone live, take control of any of them, and automate the work with workflows and schedules.
 - **Cloud phones.** A fresh Android phone (Android 11 to 17) on BenchFleet's servers, ready in about a minute, that joins your fleet next to your own phones and is deleted when it stops.
 
